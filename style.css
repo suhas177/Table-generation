@@ -1,0 +1,57 @@
+h1 {
+    font-family: 'Victor Mono', monospace;
+    text-align: center;
+}
+
+#table {
+    font-family: 'Goldman', cursive;
+    font-family: 'Victor Mono', monospace;
+    border: 3px solid rgb(226, 194, 54);
+    text-align: center;
+    font-size: 20px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+
+body {
+    background-color: rgb(149, 166, 211);
+    text-align: center;
+    align-items: center;
+}
+
+.data {
+    border: .1px solid rgb(49, 48, 29);
+    text-align: center;
+    font-size: 20px;
+    align-items: center;
+}
+
+
+#btn {
+    background-color: rgb(1, 161, 161);
+    border: 2px;
+    border-radius: 1px;
+    font-size: 25px;
+    font-family: 'Goldman', cursive;
+}
+
+#btn:active {
+    background-color: rgb(24, 101, 101);
+}
+
+#btn:hover {
+    align-items: center;
+}
+
+tr,td,th{
+    text-align: center;
+    height: 50px;
+    width: 100px;
+    vertical-align: auto;
+}
+
+.hide{
+    display: none;
+}
